@@ -1,9 +1,9 @@
 ## 📁 Repository Structure  
 ```bash
 ├── WireFrames/  
-│   └── Library_Wireframes.pdf  
+│   └── Library_Management_Wireframes.pdf  
 │  
 ├── Diagrams/  
-│   └── Library_Management_System_Diagrams.pdf  
+│   └── Library_Management_Diagrams.pdf  
 │  
 └── README.md
